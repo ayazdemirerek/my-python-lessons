@@ -1,1 +1,1 @@
-#This reposistory has got python lessons
+# This reposistory has got python lessons
